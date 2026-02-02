@@ -135,7 +135,18 @@ python eval_model.py --model_path model_hub/finetune-models/matssl/matssl-aachen
 
 Evaluation results will be saved in the `results_[DATASET_NAME]/` directory.
 
-#### Citation
-https://openaccess.thecvf.com/content/ICCV2025W/CV4MS/papers/Nguyen_MatSSL_Robust_Self-Supervised_Representation_Learning_for_Metallographic_Image_Segmentation_ICCVW_2025_paper.pdf
+## Citation
+
+If you use this code in your research, please cite:
+
+```bibtex
+@InProceedings{Nguyen_2025_ICCV,
+  author    = {Nguyen, Hoang Hai Nam and Hieu, Phan Nguyen Duc and Lee, Ho Won},
+  title     = {MatSSL: Robust Self-Supervised Representation Learning for Metallographic Image Segmentation},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+  month     = {October},
+  year      = {2025},
+  pages     = {3576-3583}
+}
 
 
