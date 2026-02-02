@@ -135,6 +135,7 @@ python eval_model.py --model_path model_hub/finetune-models/matssl/matssl-aachen
 
 Evaluation results will be saved in the `results_[DATASET_NAME]/` directory.
 
-
+#### Citation
+https://openaccess.thecvf.com/content/ICCV2025W/CV4MS/papers/Nguyen_MatSSL_Robust_Self-Supervised_Representation_Learning_for_Metallographic_Image_Segmentation_ICCVW_2025_paper.pdf
 
 
